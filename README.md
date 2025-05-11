@@ -1,4 +1,4 @@
-## Ana Julia Cardoso
+## Olá sou, Ana Julia Cardoso
 Atualmente cursando o 1º semestre de ADS na faculdade UNICEUB. Meu grande intersse nessa área da tecnologia foi me propor a um desafio e me tirar da zona de conforto. E juntamente com o desejo de aumentar a representação feminina na área.
 
 -📚 Universitária *UNICEUB*
