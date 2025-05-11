@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ana Julia Cardoso
+Atualmente cursando o 1º semestre de ADS na faculdade UNICEUB. Meu grande intersse nessa área da tecnologia foi me propor a um desafio e me tirar da zona de conforto. E juntamente com o desejo de aumentar a representação feminina na área.
 
-<!--
-**Anajulia-13/Anajulia-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-📚 Universitária *UNICEUB*
 
-Here are some ideas to get you started:
+-🐶 Apaixonada por *animais*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-💻 Foco atual em :
+
+<img width='50' reight='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
+
+## Você me encontra em 
+<a href="https://www.linkedin.com/in/ana-j%C3%BAlia-3429a935a">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
