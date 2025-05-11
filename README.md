@@ -13,3 +13,6 @@ Atualmente cursando o 1º semestre de ADS na faculdade UNICEUB. Meu grande inter
 <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-3429a935a">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/anajuliacardosodoss?igsh=MTVraTVqeWUxMTRuNw==&utm_source=ig_contact_invite">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
